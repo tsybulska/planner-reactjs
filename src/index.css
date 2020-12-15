@@ -13,8 +13,19 @@ code {
 }
 
 .wrapper {
+    width: 500px;
     padding-top: 5rem;
     margin: 0 auto;
-    width: 600px;
     text-align: center;
+}
+
+.del {
+    background: green;
+    border-radius: 3px;
+    border: none;
+    color: #fff;
+}
+
+.done {
+    text-decoration: line-through;
 }
