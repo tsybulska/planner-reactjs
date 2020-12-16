@@ -13,10 +13,10 @@ const styles = {
 function TodoList(props) {
     return (
         <ul style={styles.ul}>
-            {props.tasks.map((tasks, index) => {
+            {props.todos.map((todo, index) => {
                 return <TodoItem
-                    tasks={tasks}
-                    key={tasks.id}
+                    todo={todo}
+                    key={todo.id}
                     index={index}
                     onChange={props.onToggle}
                 />
@@ -26,7 +26,7 @@ function TodoList(props) {
 }
 
 TodoList.propTypes = {
-    tasks: PropTypes.arrayOf(PropTypes.object).isRequired,
+    todos: PropTypes.arrayOf(PropTypes.object).isRequired,
     onToggle: PropTypes.func.isRequired
 }
 
