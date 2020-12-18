@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 
-function useInputValue(defaultValue='') {
+function useInputValue(defaultValue = '') {
     const [value, setValue] = useState(defaultValue)
 
     return {
@@ -28,9 +28,9 @@ function AddTodo({ onCreate }) {
     }
 
     return (
-        <form  style={{marginBottom: '1rem'}} onSubmit={submitHandler}>
+        <form style={{ marginBottom: '1.5rem' }} onSubmit={submitHandler}>
             <input {...input.bind} />
-            <button type="submit" className='btn'>Add ToDo</button>
+            <button type="submit" className='btn' style={{ marginLeft: '.5rem' }}>Add ToDo</button>
         </form>
     )
 }
