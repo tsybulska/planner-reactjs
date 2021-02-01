@@ -69,6 +69,8 @@ function App() {
                 ) : loading ? null : (
                     <p>No ToDos</p>
                 )}
+
+                <p className="copy">Developed by <a href="https://tsybulska.github.io/" target="_blank" rel="nofollow noopener">Olena Tsybulska</a></p>
             </div>
         </Context.Provider>
     )
