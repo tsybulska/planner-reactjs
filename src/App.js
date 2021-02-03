@@ -70,7 +70,9 @@ function App() {
                     <p>No ToDos</p>
                 )}
 
-                <p className="copy">Developed by <a href="https://tsybulska.github.io/" target="_blank" rel="nofollow noopener">Olena Tsybulska</a></p>
+                <p className="copy">
+                    <a href="https://tsybulska.github.io/" target="_blank" rel="nofollow noopener">Developed by Olena Tsybulska</a>
+                </p>
             </div>
         </Context.Provider>
     )
