@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/reactjs-todo/static/css/main.192d33e7.chunk.css",
-    "main.js": "/reactjs-todo/static/js/main.ab31d433.chunk.js",
-    "main.js.map": "/reactjs-todo/static/js/main.ab31d433.chunk.js.map",
-    "runtime-main.js": "/reactjs-todo/static/js/runtime-main.91e7476f.js",
-    "runtime-main.js.map": "/reactjs-todo/static/js/runtime-main.91e7476f.js.map",
-    "static/js/2.8cef10ea.chunk.js": "/reactjs-todo/static/js/2.8cef10ea.chunk.js",
-    "static/js/2.8cef10ea.chunk.js.map": "/reactjs-todo/static/js/2.8cef10ea.chunk.js.map",
-    "static/js/3.4165c6dc.chunk.js": "/reactjs-todo/static/js/3.4165c6dc.chunk.js",
-    "static/js/3.4165c6dc.chunk.js.map": "/reactjs-todo/static/js/3.4165c6dc.chunk.js.map",
-    "static/js/4.df33a27b.chunk.js": "/reactjs-todo/static/js/4.df33a27b.chunk.js",
-    "static/js/4.df33a27b.chunk.js.map": "/reactjs-todo/static/js/4.df33a27b.chunk.js.map",
-    "index.html": "/reactjs-todo/index.html",
-    "static/css/main.192d33e7.chunk.css.map": "/reactjs-todo/static/css/main.192d33e7.chunk.css.map",
-    "static/js/2.8cef10ea.chunk.js.LICENSE.txt": "/reactjs-todo/static/js/2.8cef10ea.chunk.js.LICENSE.txt"
+    "main.css": "/planner-reactjs/static/css/main.b1520b89.chunk.css",
+    "main.js": "/planner-reactjs/static/js/main.3d06f306.chunk.js",
+    "main.js.map": "/planner-reactjs/static/js/main.3d06f306.chunk.js.map",
+    "runtime-main.js": "/planner-reactjs/static/js/runtime-main.10d8ff44.js",
+    "runtime-main.js.map": "/planner-reactjs/static/js/runtime-main.10d8ff44.js.map",
+    "static/js/2.5ee4c23b.chunk.js": "/planner-reactjs/static/js/2.5ee4c23b.chunk.js",
+    "static/js/2.5ee4c23b.chunk.js.map": "/planner-reactjs/static/js/2.5ee4c23b.chunk.js.map",
+    "static/js/3.764ed0e5.chunk.js": "/planner-reactjs/static/js/3.764ed0e5.chunk.js",
+    "static/js/3.764ed0e5.chunk.js.map": "/planner-reactjs/static/js/3.764ed0e5.chunk.js.map",
+    "static/js/4.598729b1.chunk.js": "/planner-reactjs/static/js/4.598729b1.chunk.js",
+    "static/js/4.598729b1.chunk.js.map": "/planner-reactjs/static/js/4.598729b1.chunk.js.map",
+    "index.html": "/planner-reactjs/index.html",
+    "static/css/main.b1520b89.chunk.css.map": "/planner-reactjs/static/css/main.b1520b89.chunk.css.map",
+    "static/js/2.5ee4c23b.chunk.js.LICENSE.txt": "/planner-reactjs/static/js/2.5ee4c23b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.91e7476f.js",
-    "static/js/2.8cef10ea.chunk.js",
-    "static/css/main.192d33e7.chunk.css",
-    "static/js/main.ab31d433.chunk.js"
+    "static/js/runtime-main.10d8ff44.js",
+    "static/js/2.5ee4c23b.chunk.js",
+    "static/css/main.b1520b89.chunk.css",
+    "static/js/main.3d06f306.chunk.js"
   ]
 }
