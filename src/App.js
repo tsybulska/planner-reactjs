@@ -55,7 +55,7 @@ function App() {
     return (
         <Context.Provider value={{ removeTodo }}>
             <div className="wrapper">
-                <h1>ReactJS ToDo</h1>
+                <h1>Planner ReactJS</h1>
                 <Modal />
 
                 <React.Suspense fallback={<p style={{textAlign: 'center'}}>Loading..</p>}>

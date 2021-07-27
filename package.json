@@ -1,6 +1,6 @@
 {
-  "name": "reactjs-todo",
-  "homepage": "http://tsybulska.github.io/reactjs-todo",
+  "name": "planner-reactjs",
+  "homepage": "http://tsybulska.github.io/planner-reactjs",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
